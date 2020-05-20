@@ -12,7 +12,7 @@ We propose an efficient in-loop filtering algorithm based on the enhanced deep c
 
 #### 1. The structure of proposed feature information fusion block 
 
-<img src="network/20200520103208.png" alt="20200520103208.png" style="zoom: 33%;" />
+<img src="network/20200520103208.png" alt="20200520103208.png" style="zoom: 20%;" />
 
 #### 2. The architecture of proposed EDCNN 
 
@@ -20,7 +20,7 @@ We propose an efficient in-loop filtering algorithm based on the enhanced deep c
 
 #### 3. The detailed network parameters
 
-<img src="network/20200520131415.png" alt="20200520131415" style="zoom:50%;" />
+<img src="network/20200520131415.png" alt="20200520131415" style="zoom:33%;" />
 
 ------
 
