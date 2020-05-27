@@ -38,7 +38,9 @@ We propose an efficient in-loop filtering algorithm based on the enhanced deep c
 
 ![20200520132202](network/20200520132202.png)
 
-### Test instruction using pretrained model
+### Test instruction using pre-trained model
+
+We have listed our pre-trained model of EDCNN module, if you want to compare our method, you can substitute the trained EDCNN model in your method. The pre-trained model is placed in `weights/edcnn`.
 
 ```python
 python3 predict.py --model [pretrained model] --dir_demo [demo images directory] --save_name [directory to save] --pre_train [weightfile]
